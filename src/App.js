@@ -12,6 +12,7 @@ function App() {
     <div>
       <TopBar />
       <BrandImage />
+      <Stores />
     </div>
   );
 }
